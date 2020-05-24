@@ -2,7 +2,7 @@
 
 Hello. It's nice to know you!
 
-My name is Abigail Ng, a Vietnamese.
+My name is Abigail Nguyen, a Vietnamese.
 
 Vietnamese is my mother tongue, and English is my second language.
 
