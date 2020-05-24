@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to this little blog
 
-You can use the [editor on GitHub](https://github.com/abigailng/project1-fundamental-for-ml/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello. My name is Abigail Ng, a Vietnamese.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Why I created this blog:
+- Summarize the main points of fundamentals for Machine Learning in understandable and systemetic ways.
+- Practice writting English.
+
+
 
 ### Markdown
 
