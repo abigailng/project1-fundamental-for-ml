@@ -1,41 +1,17 @@
 ## Welcome to this little blog
 
-Hello. My name is Abigail Ng, a Vietnamese.
+Hello. It's nice to know you!
 
-1. Why I created this blog:
+My name is Abigail Ng, a Vietnamese.
+
+Vietnamese is my mother tongue, and English is my second language.
+
+Why I created this blog:
 - Summarize the main points of fundamentals for Machine Learning in understandable and systemetic ways.
 - Practice writting English.
 
+If I make any mistakes, I would really appreciate it if you would correct them.
 
+Thank you so much for your support =)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abigailng/project1-fundamental-for-ml/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Have a nice day =)
